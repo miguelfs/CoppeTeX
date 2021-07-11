@@ -295,3 +295,7 @@ TSWLatexianTemp*
 # End of https://www.toptal.com/developers/gitignore/api/latex
 *.syx
 *.abx
+
+### OS Auto Generated files ###
+# macOS
+*.DS_Store
